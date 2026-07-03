@@ -16,7 +16,7 @@ DiffTop: a code for the calculation of the differential cross section for heavy-
 | Architecture | Latest published |
 |--------------|------------------|
 | linux-amd64 (`linux-64`) | ✅ `1.0.0` |
-| linux-arm64 (`linux-aarch64`) | ❌ not published |
+| linux-arm64 (`linux-aarch64`) | ✅ `1.0.0` |
 
 _As of the last feedstock render; the badges above are live._
 
